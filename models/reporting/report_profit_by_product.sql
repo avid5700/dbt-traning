@@ -1,8 +1,4 @@
-{{
-    config(
-        materialized='table'
-    )
-}}
+
 
 select a.productid,
        a.productname,
