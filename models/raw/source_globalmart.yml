@@ -5,6 +5,9 @@ sources:
     schema: globalmart
     tables:
       - name: customer
+        identifier: customer
       - name: orders
+        identifier: orders
       - name: product 
+        identifier: product
       
